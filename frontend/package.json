@@ -58,7 +58,7 @@
     "socket.io-client": "^3.0.3",
     "source-map": "^0.7.3",
     "syncod": "^0.0.1",
-    "tailwindcss": "^1.5.2"
+    "tailwindcss": "^2.2.5"
   },
   "devDependencies": {
     "@babel/cli": "^7.10.5",
