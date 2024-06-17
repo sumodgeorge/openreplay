@@ -13,7 +13,7 @@ botocore==1.18.18
 certifi==2020.6.20
 cffi==1.14.3
 chardet==3.0.4
-cryptography==2.9.2
+cryptography==42.0.8
 idna==2.10
 isodate==0.6.0
 jmespath==0.10.0
