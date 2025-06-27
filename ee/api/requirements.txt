@@ -26,3 +26,4 @@ python-multipart==0.0.20
 redis==5.2.1
 #confluent-kafka==2.1.0
 azure-storage-blob==12.24.1
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
