@@ -1,4 +1,4 @@
-certifi==2022.09.24
+certifi==2024.7.4
 chardet==5.1.0
 clickhouse-driver==0.2.6
 clickhouse-sqlalchemy==0.2.4
@@ -11,3 +11,4 @@ SQLAlchemy==1.4.43
 tzlocal==5.0.1
 urllib3==1.26.12
 PyYAML==6.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
