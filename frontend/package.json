@@ -57,7 +57,7 @@
     "import": "^0.0.6",
     "jest-environment-jsdom": "^29.5.0",
     "js-untar": "^2.0.0",
-    "jspdf": "^2.5.1",
+    "jspdf": "^3.0.2",
     "lottie-react": "^2.4.0",
     "lucide-react": "0.454.0",
     "luxon": "^3.5.0",
